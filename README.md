@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+robofriends react app upgraded with redux
 
 ## React App with the Power of Redux
 In the project directory, you can run:
